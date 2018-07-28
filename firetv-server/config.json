@@ -18,5 +18,5 @@
   },
   "ports": {
     "5556/tcp": 5556 },
-  "image": "gollo/{arch}-addon-firetv-server"
+  "image": "simpat1zq/{arch}-addon-firetv-server"
 }
